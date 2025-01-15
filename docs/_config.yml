@@ -9,5 +9,5 @@ markdown: kramdown
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-baseurl: "/kitchen-sink"
+baseurl: "/Movie2U"
 show_downloads: false 
